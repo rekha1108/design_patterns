@@ -1,6 +1,8 @@
 # design_patterns
 
-**Singleton Design Pattern:**
+### SOLID Principles
+
+**Single Responsibility Principle:**
 
 Every class should implement single functionality , it should not implement multiple functionalities.
 
